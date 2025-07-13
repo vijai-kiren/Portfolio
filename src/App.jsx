@@ -285,7 +285,7 @@ const Portfolio = () => {
                 <div className="bg-white/5 backdrop-blur-sm rounded-lg p-4 border border-white/10">
                   <h3 className="font-semibold text-purple-400 mb-2">Backend</h3>
                   <p className="text-gray-300 text-sm">
-                    Node.js, Python, MySQL, MongoDB
+                    Node.js, MySQL, MongoDB
                   </p>
                 </div>
                 <div className="bg-white/5 backdrop-blur-sm rounded-lg p-4 border border-white/10">
@@ -297,7 +297,7 @@ const Portfolio = () => {
                 <div className="bg-white/5 backdrop-blur-sm rounded-lg p-4 border border-white/10">
                   <h3 className="font-semibold text-green-400 mb-2">Languages</h3>
                   <p className="text-gray-300 text-sm">
-                    JavaScript, Python, Java, C++
+                     Python, C++
                   </p>
                 </div>
               </div>
