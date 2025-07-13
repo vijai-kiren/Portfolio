@@ -60,7 +60,7 @@ const Portfolio = () => {
       icon: <User className="w-4 h-4" />,
     },
     {
-      year: '2008-2020',
+      year: '2008-2022',
       title: 'School Years',
       description: 'Primary and Secondary Education',
       icon: <GraduationCap className="w-4 h-4" />,
